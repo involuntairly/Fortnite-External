@@ -1,11 +1,11 @@
-# Fortnite-External
-Outdated Fortnite External
+# fortnite-external
 
-Project for Valiant, I give proper credits to, "blinq"/ "Interpreter"/"__writecr4(miraka.)"
-They have taught me everything I know, I prop blinq the most for the months that we were good friends for, hope the best for each and everyone one of them.
+outdated fortnite external
 
-This source is partially unfinished, but it is a very good base to begin with, it has a optimized cache, clean code (classes), easy to work with, etc. 
+project for valiant, i give proper credits to, "blinq"
 
-Thank you everyone for the time we spent together, I have officially quit my time with the Fortnite Cheating community, though in the future I may work on projects for myself.
+he has taught me everything i know, i prop blinq the most for the months that we were good friends for, hope the best for him
 
-<3 - bxtshit
+thank you everyone for the time we spent together, i have officially quit my time with the fortnite cheating community, though in the future i may work on projects for myself.
+
+<3 - sqqrky
